@@ -1,6 +1,6 @@
 "use client";
 
-import { Badge } from "@/app/components/Badge";
+import { Badge } from "@/components/Badge";
 import { Block, Link, Section } from "@/devlink/_Builtin";
 
 export default function Home() {
