@@ -9,6 +9,7 @@
     "lint": "next lint",
     "deploy": "webflow cloud deploy",
     "share": "webflow library share",
+    "sync": "webflow devlink sync",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
   },
