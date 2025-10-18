@@ -9,4 +9,7 @@ export * from "./devlinkContext";
 export * from "./interactions";
 export * from "./utils";
 export * from "./devlink";
+export * from "./Badge";
 export * from "./DevLinkProvider";
+export * from "./Footer";
+export * from "./Menu";
