@@ -1,6 +1,7 @@
 "use client";
 
-import { Section, Block, Link } from "@/devlink/_Builtin";
+import { Badge } from "@/components/Badge";
+import { Block, Link, Section } from "@/devlink/_Builtin";
 
 export default function Home() {
   return (
@@ -56,6 +57,9 @@ export default function Home() {
             >
               Get Started
             </Link>
+            <br />
+            <br />
+            <Badge text="Luiz Eduardo" variant="light" />
           </div>
         </Block>
       </Block>

@@ -1,9 +1,17 @@
 {
   "cloud": {
-    "framework": "nextjs"
+    "framework": "nextjs",
+    "project_id": "3ef049c8-1061-4c64-80f4-7ea26fa812fe"
   },
   "devlink": {
     "rootDir": "./src/devlink",
     "cssModules": true
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1760778417067,
+      "version": "1.8.44"
+    }
   }
 }
